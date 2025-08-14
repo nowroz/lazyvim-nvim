@@ -5,3 +5,5 @@
 vim.opt.title = true
 
 vim.opt.inccommand = "split"
+
+vim.opt.relativenumber = false
